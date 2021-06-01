@@ -83,6 +83,9 @@
             "type": "string"
           }
         },
+        "evaluationDelay": {
+          "type": "string"
+        },
         "existenceCondition": {
           "oneOf": [
             { "$ref": "#/definitions/condition" },
